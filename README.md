@@ -10,8 +10,8 @@ Projekty, w których będziesz brał udział w przyszłości najczęściej będ�
         username:
         NazwaUzytkownikaGita
         ```
-    
-        W taki sposób prowadzący doda Cię jako współdewelopera projektu.
+   
+      W taki sposób prowadzący doda Cię jako współdewelopera projektu.
    
 4. Sklonuj repozytorium prowadzącego. (git clone adres_www).
 5. Stwórz własną gałąź w repozytorium nazywając ją swoją nazwą użytkownika. (git branch NazwaGalezi). Uwaga! Możesz wykonać polecenie 4 i 5 jedną komendą dodając argument (git checkout -b NazwaGalezi).
