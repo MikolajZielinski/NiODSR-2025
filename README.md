@@ -1,6 +1,7 @@
 # NiODSR-2024
 
-###**Zadanie**
+### **Zadanie**
+
 Projekty, w których będziesz brał udział w przyszłości najczęściej będą tworzone zespołowo. Wiele repozytoriów jest również open-source, czyli może mieć wpływ na znajdujący się w nich kod. W tym zadaniu zaproponujemy zmianę w repozytorium prowadzącego:
 
 1. Otwórz wskazane repozytorium w przeglądarce.
