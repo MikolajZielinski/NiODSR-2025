@@ -5,12 +5,10 @@ Projekty, w których będziesz brał udział w przyszłości najczęściej będ�
 
 1. Otwórz wskazane repozytorium w przeglądarce.
 2. Przejdź do zakładki Issues i dodaj je w następującym formacie:
-
 ```bash
 username:
 NazwaUzytkownikaGita
 ```
-
 W taki sposób prowadzący doda Cię jako współdewelopera projektu.
 3. Sklonuj repozytorium prowadzącego. (git clone adres_www).
 4. Stwórz własną gałąź w repozytorium nazywając ją swoją nazwą użytkownika. (git branch NazwaGalezi). Uwaga! Możesz wykonać polecenie 4 i 5 jedną komendą dodając argument (git checkout -b NazwaGalezi).
